@@ -1,0 +1,68 @@
+.nav-item{
+    font-size: 0.75rem;
+    
+}
+.nav-item-parent{
+    flex-basis: 500px;
+}
+.white{
+    color: white;
+}
+.navbar-nav{
+    position:sticky;
+    top:0px;
+}
+p{
+    margin: 0px;
+}
+li:hover{
+   text-decoration: underline;
+   color: white;
+    transition: all 0.3s;
+    
+   }
+  
+   .nav-link:hover{
+    color: white;
+   }
+
+   .nav-link{
+    text-wrap: nowrap;
+    ;
+   }
+
+   .carousel-item{
+    margin-top: 1cap;
+    margin-left: 1cap;
+    margin-right: 1cap;
+    margin-bottom: 1cap;
+    height: 600;
+   }
+  
+   .container text-center-1{
+    margin-top: 1cap;
+   }
+
+   .flex-row{
+    display:inline-flex;
+
+   }
+
+.card:hover{
+    transform: scale(1.1);
+    transition: 0.3s;
+}
+.innerpage h1{
+    color: #000;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 30px;
+    text-transform: uppercase;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+}
+.banner wrap{
+    width:600%;
+
+}
